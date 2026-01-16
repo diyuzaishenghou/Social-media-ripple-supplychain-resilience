@@ -36,12 +36,12 @@ Run the following scripts in order to generate the paper's figures:
 
 | Figure Number | Corresponding Parameter | Script to Run |
 |---------------|-------------------------|---------------|
-| Figure 7      | U_t_NA                  | `04_figure_07.R` |
-| Figure 8      | Beta_NA_NA              | `05_figure_08.R` |
-| Figure 9      | Gama_NA_NA              | `06_figure_09.R` |
-| Figure 10     | I_NA_L                  | `07_figure_10.R` |
-| Figure 11     | I_NA_F                  | `08_figure_11.R` |
-| Figure 12     | n_t_NA                  | `09_figure_12.R` |
-| Figure 13     | v_t_f                   | `10_figure_13.R` |
-| Figure 14     | Epsilon_NA_NA           | `11_figure_14.R` |
-| Figure 15     | Theta_NA_NA             | `12_figure_15.R` |
+| Figure 7      | U_t_NA                  | `Code for Figure 7.R` |
+| Figure 8      | Beta_NA_NA              | `Code for Figure 8.R` |
+| Figure 9      | Gama_NA_NA              | `Code for Figure 9.R` |
+| Figure 10     | I_NA_L                  | `Code for Figure 10.R` |
+| Figure 11     | I_NA_F                  | `Code for Figure 11.R` |
+| Figure 12     | n_t_NA                  | `Code for Figure 12.R` |
+| Figure 13     | v_t_f                   | `Code for Figure 13.R` |
+| Figure 14     | Epsilon_NA_NA           | `Code for Figure 14.R` |
+| Figure 15     | Theta_NA_NA             | `Code for Figure 15.R` |
