@@ -1,5 +1,3 @@
-# ================ 完整可运行的蒙特卡洛测试代码 ================
-
 # 清理环境
 rm(list = ls())
 gc()
@@ -246,4 +244,5 @@ for (i in 1:length(analysis$stage_stats)) {
   cat(sprintf("  标准差: %.2f\n", stats$sd))
   cat(sprintf("  变异系数: %.3f\n", stats$cv))
   cat("\n")
+
 }
